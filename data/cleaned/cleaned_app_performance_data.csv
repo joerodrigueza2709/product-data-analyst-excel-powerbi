@@ -1,0 +1,201 @@
+app_name,platform,country,ua_spend_cad,installs,active_users_30d,revenue_30d_cad,revenue_90d_cad,cac_cad,roas_30d,ltv_90d_per_install,retention_30d,ltv_cac_ratio,payback_flag,ltv_gt_cac,eligible_for_ua
+Galaxy Gardeners,iOS,Afghanistan,"$2,700.30 ",9512,1882,$436.82 ,$956.11 ,$0.28 ,0.16×,$0.10 ,19.79%,0.36,Needs Optimization,NO,NO
+ABC Adventure,iOS,Albania,"$18,533.79 ",1541,172,$116.90 ,$155.69 ,$12.03 ,0.01×,$0.10 ,11.16%,0.01,Needs Optimization,NO,NO
+Magic Math Quest,Amazon,Algeria,"$20,196.76 ",18356,4915,"$3,789.17 ","$8,878.63 ",$1.10 ,0.19×,$0.48 ,26.78%,0.44,Needs Optimization,NO,NO
+Pirate Paint Party,iOS,Andorra,"$21,547.90 ",11649,2459,"$2,363.94 ","$3,363.06 ",$1.85 ,0.11×,$0.29 ,21.11%,0.16,Needs Optimization,NO,NO
+Astronaut Academy,iOS,Angola,"$12,051.42 ",11770,4019,"$9,700.83 ","$18,853.31 ",$1.02 ,0.80×,$1.60 ,34.15%,1.57,Breakeven,YES,NO
+Astronaut Academy,iOS,Antigua and Barbuda,"$17,457.14 ",12350,4087,"$2,262.81 ","$3,560.48 ",$1.41 ,0.13×,$0.29 ,33.09%,0.21,Needs Optimization,NO,NO
+Robot Rhyme Run,iOS,Argentina,"$25,948.90 ",3809,960,"$1,613.72 ","$2,412.81 ",$6.81 ,0.06×,$0.63 ,25.20%,0.09,Needs Optimization,NO,NO
+Castle Color Camp,iOS,Armenia,"$20,764.90 ",2839,975,$791.78 ,"$1,184.57 ",$7.31 ,0.04×,$0.42 ,34.34%,0.06,Needs Optimization,NO,NO
+Astronaut Academy,Android,Australia,"$29,706.65 ",18750,3522,"$4,389.34 ","$6,000.78 ",$1.58 ,0.15×,$0.32 ,18.78%,0.2,Needs Optimization,NO,NO
+Dino Dash,Android,Austria,"$13,232.61 ",2668,491,"$1,568.26 ","$2,630.93 ",$4.96 ,0.12×,$0.99 ,18.40%,0.2,Needs Optimization,NO,NO
+Galaxy Gardeners,Android,Azerbaijan,"$13,077.69 ",15535,2441,"$1,826.96 ","$3,556.68 ",$0.84 ,0.14×,$0.23 ,15.71%,0.27,Needs Optimization,NO,NO
+Hero Helper HQ,Amazon,Bahamas,"$13,996.15 ",19621,5096,"$6,162.23 ","$11,778.68 ",$0.71 ,0.44×,$0.60 ,25.97%,0.85,Needs Optimization,NO,NO
+Rainbow Rescue,iOS,Bahrain,"$26,110.88 ",5508,1933,"$3,049.09 ","$4,196.26 ",$4.74 ,0.12×,$0.76 ,35.09%,0.16,Needs Optimization,NO,NO
+Astronaut Academy,Amazon,Bangladesh,"$29,891.40 ",17838,3577,"$7,803.46 ","$16,514.78 ",$1.68 ,0.26×,$0.93 ,20.05%,0.55,Needs Optimization,NO,NO
+Space Sprouts,Amazon,Barbados,"$26,774.08 ",9243,3765,"$2,449.40 ","$3,649.09 ",$2.90 ,0.09×,$0.39 ,40.73%,0.13,Needs Optimization,NO,NO
+Panda Playhouse,Amazon,Belarus,"$26,523.88 ",9130,4462,"$7,785.16 ","$11,114.82 ",$2.91 ,0.29×,$1.22 ,48.87%,0.42,Needs Optimization,NO,NO
+Galaxy Gardeners,Android,Belgium,"$25,566.74 ",17135,5887,"$4,682.98 ","$9,118.96 ",$1.49 ,0.18×,$0.53 ,34.36%,0.36,Needs Optimization,NO,NO
+Pirate Paint Party,Amazon,Belize,"$27,717.82 ",11121,3285,"$1,313.35 ","$3,260.24 ",$2.49 ,0.05×,$0.29 ,29.54%,0.12,Needs Optimization,NO,NO
+ABC Adventure,iOS,Benin,"$4,068.13 ",11823,5853,"$8,325.70 ","$17,720.22 ",$0.34 ,2.05×,$1.50 ,49.51%,4.41,Profitable,YES,YES
+Pirate Paint Party,Amazon,Bhutan,"$23,443.36 ",4707,1712,"$1,822.11 ","$3,522.52 ",$4.98 ,0.08×,$0.75 ,36.37%,0.15,Needs Optimization,NO,NO
+Ninja Numbers,Android,Bolivia,"$29,002.16 ",18171,7306,"$15,196.51 ","$27,031.41 ",$1.60 ,0.52×,$1.49 ,40.21%,0.93,Needs Optimization,NO,NO
+Fairy Pet Care,Amazon,Bosnia and Herzegovina,"$12,455.77 ",17459,4898,"$1,362.86 ","$1,806.12 ",$0.71 ,0.11×,$0.10 ,28.05%,0.14,Needs Optimization,NO,NO
+ABC Adventure,iOS,Botswana,"$18,476.32 ",735,94,$79.27 ,$189.18 ,$25.14 ,0.00×,$0.26 ,12.79%,0.01,Needs Optimization,NO,NO
+Jungle Jumpers,iOS,Brazil,"$16,396.37 ",9625,3538,"$1,145.57 ","$2,775.28 ",$1.70 ,0.07×,$0.29 ,36.76%,0.17,Needs Optimization,NO,NO
+Safari Snap,Amazon,Brunei,"$15,234.79 ",15998,6767,"$1,822.74 ","$3,312.40 ",$0.95 ,0.12×,$0.21 ,42.30%,0.22,Needs Optimization,NO,NO
+Mermaid Melody,Android,Bulgaria,"$15,076.69 ",2275,840,$752.28 ,"$1,341.42 ",$6.63 ,0.05×,$0.59 ,36.92%,0.09,Needs Optimization,NO,NO
+Jungle Jumpers,iOS,Burkina Faso,"$8,962.38 ",6732,2117,$628.26 ,"$1,165.52 ",$1.33 ,0.07×,$0.17 ,31.45%,0.13,Needs Optimization,NO,NO
+Rainbow Rescue,Android,Burundi,"$24,624.62 ",18533,2579,"$4,145.13 ","$5,462.08 ",$1.33 ,0.17×,$0.29 ,13.92%,0.22,Needs Optimization,NO,NO
+Dragon Dress-Up,iOS,Cabo Verde,"$12,888.00 ",13748,5357,"$16,130.78 ","$39,953.79 ",$0.94 ,1.25×,$2.91 ,38.97%,3.1,Profitable,YES,YES
+Panda Playhouse,Android,Cambodia,"$9,425.69 ",15409,3299,"$7,039.98 ","$15,769.79 ",$0.61 ,0.75×,$1.02 ,21.41%,1.67,Needs Optimization,YES,NO
+Fairy Pet Care,Amazon,Cameroon,"$15,626.80 ",6722,1469,"$3,458.84 ","$6,746.93 ",$2.32 ,0.22×,$1.00 ,21.85%,0.43,Needs Optimization,NO,NO
+Farm Friends,iOS,Canada,"$3,669.87 ",10579,3575,"$10,598.65 ","$19,363.57 ",$0.35 ,2.89×,$1.83 ,33.79%,5.23,Profitable,YES,YES
+Tiny Town Builders,iOS,Central African Republic,"$25,837.59 ",2745,927,$884.99 ,"$1,277.81 ",$9.41 ,0.03×,$0.47 ,33.77%,0.05,Needs Optimization,NO,NO
+Safari Snap,iOS,Chad,"$18,209.73 ",1802,626,$747.83 ,"$1,441.32 ",$10.11 ,0.04×,$0.80 ,34.74%,0.08,Needs Optimization,NO,NO
+Puzzle Planet,iOS,Chile,"$20,752.33 ",10795,2110,"$2,715.82 ","$4,508.25 ",$1.92 ,0.13×,$0.42 ,19.55%,0.22,Needs Optimization,NO,NO
+Farm Friends,iOS,China,"$5,533.36 ",19681,6284,"$9,730.89 ","$18,845.51 ",$0.28 ,1.76×,$0.96 ,31.93%,3.43,Profitable,YES,YES
+Castle Color Camp,iOS,Colombia,"$26,619.57 ",12608,2698,"$3,189.37 ","$5,303.99 ",$2.11 ,0.12×,$0.42 ,21.40%,0.2,Needs Optimization,NO,NO
+Galaxy Gardeners,Amazon,Comoros,"$2,219.05 ",18673,4103,"$10,317.13 ","$15,074.87 ",$0.12 ,4.65×,$0.81 ,21.97%,6.75,Profitable,YES,YES
+Space Sprouts,iOS,Congo (Republic),"$22,787.67 ",5593,1168,"$2,193.03 ","$3,386.73 ",$4.07 ,0.10×,$0.61 ,20.88%,0.15,Needs Optimization,NO,NO
+Galaxy Gardeners,Android,Costa Rica,"$16,151.45 ",8728,4033,"$3,111.65 ","$5,626.77 ",$1.85 ,0.19×,$0.64 ,46.21%,0.35,Needs Optimization,NO,NO
+Puzzle Planet,iOS,Cote d’Ivoire,"$2,099.28 ",4786,1698,"$1,780.49 ","$3,493.35 ",$0.44 ,0.85×,$0.73 ,35.48%,1.66,Breakeven,YES,NO
+Mermaid Melody,Amazon,Croatia,"$2,270.75 ",2965,1417,"$1,105.17 ","$1,484.50 ",$0.77 ,0.49×,$0.50 ,47.79%,0.65,Needs Optimization,NO,NO
+Castle Color Camp,Amazon,Cuba,"$17,470.70 ",14583,2201,"$3,019.98 ","$6,811.10 ",$1.20 ,0.17×,$0.47 ,15.09%,0.39,Needs Optimization,NO,NO
+Dino Dash,Android,Cyprus,"$7,882.14 ",8676,3182,"$3,293.33 ","$7,738.19 ",$0.91 ,0.42×,$0.89 ,36.68%,0.98,Needs Optimization,NO,NO
+Galaxy Gardeners,Android,Czechia,"$5,033.69 ",8161,2355,"$5,618.35 ","$9,515.28 ",$0.62 ,1.12×,$1.17 ,28.86%,1.89,Profitable,YES,YES
+Panda Playhouse,iOS,Denmark,"$22,623.81 ",11385,4701,"$6,233.48 ","$13,601.88 ",$1.99 ,0.28×,$1.19 ,41.29%,0.6,Needs Optimization,NO,NO
+Storytime Studio,Android,Djibouti,"$6,457.54 ",4042,1022,$347.11 ,$534.37 ,$1.60 ,0.05×,$0.13 ,25.28%,0.08,Needs Optimization,NO,NO
+Super Chef Jr,Android,Dominica,"$10,545.34 ",7957,1505,"$1,966.48 ","$3,213.86 ",$1.33 ,0.19×,$0.40 ,18.91%,0.3,Needs Optimization,NO,NO
+Rainbow Rescue,Android,Dominican Republic,"$11,832.09 ",17192,4467,"$10,056.69 ","$24,408.44 ",$0.69 ,0.85×,$1.42 ,25.98%,2.06,Breakeven,YES,NO
+Space Sprouts,Android,Ecuador,"$6,999.90 ",9198,1060,"$1,159.72 ","$2,602.08 ",$0.76 ,0.17×,$0.28 ,11.52%,0.37,Needs Optimization,NO,NO
+Mermaid Melody,Amazon,Egypt,"$29,558.60 ",4289,1089,$962.96 ,"$2,070.89 ",$6.89 ,0.03×,$0.48 ,25.39%,0.07,Needs Optimization,NO,NO
+Panda Playhouse,Amazon,El Salvador,"$27,916.10 ",18143,6798,"$18,815.55 ","$28,909.00 ",$1.54 ,0.67×,$1.59 ,37.47%,1.03,Needs Optimization,YES,NO
+Mermaid Melody,iOS,Equatorial Guinea,"$28,568.49 ",11319,3953,"$2,772.58 ","$6,598.90 ",$2.52 ,0.10×,$0.58 ,34.92%,0.23,Needs Optimization,NO,NO
+Tiny Town Builders,Android,Eritrea,"$20,673.00 ",11188,2919,"$1,134.42 ","$2,047.10 ",$1.85 ,0.05×,$0.18 ,26.09%,0.1,Needs Optimization,NO,NO
+Astronaut Academy,Amazon,Estonia,"$22,947.77 ",6202,2147,"$1,953.84 ","$2,540.94 ",$3.70 ,0.09×,$0.41 ,34.62%,0.11,Needs Optimization,NO,NO
+Robot Rhyme Run,iOS,Eswatini,"$14,036.87 ",19504,6683,"$5,483.61 ","$11,574.54 ",$0.72 ,0.39×,$0.59 ,34.26%,0.82,Needs Optimization,NO,NO
+Tiny Town Builders,Android,Ethiopia,"$24,224.59 ",6060,2203,"$2,242.62 ","$4,581.93 ",$4.00 ,0.09×,$0.76 ,36.35%,0.19,Needs Optimization,NO,NO
+Rainbow Rescue,iOS,Fiji,"$20,838.28 ",7861,3322,$646.16 ,"$1,602.94 ",$2.65 ,0.03×,$0.20 ,42.26%,0.08,Needs Optimization,NO,NO
+Ninja Numbers,iOS,Finland,"$14,751.65 ",19363,3442,"$5,465.13 ","$8,704.76 ",$0.76 ,0.37×,$0.45 ,17.78%,0.59,Needs Optimization,NO,NO
+Galaxy Gardeners,Amazon,France,"$2,155.25 ",3992,1642,"$1,650.02 ","$3,522.95 ",$0.54 ,0.77×,$0.88 ,41.13%,1.63,Needs Optimization,YES,NO
+Super Chef Jr,iOS,Gabon,"$17,607.36 ",4476,1264,"$2,810.98 ","$6,986.61 ",$3.93 ,0.16×,$1.56 ,28.24%,0.4,Needs Optimization,NO,NO
+Ninja Numbers,Android,Gambia,"$28,601.11 ",15002,5176,"$8,570.40 ","$19,683.49 ",$1.91 ,0.30×,$1.31 ,34.50%,0.69,Needs Optimization,NO,NO
+ABC Adventure,Android,Georgia,"$27,121.83 ",16054,4495,"$11,446.04 ","$18,688.79 ",$1.69 ,0.42×,$1.16 ,28.00%,0.69,Needs Optimization,NO,NO
+Pirate Paint Party,Amazon,Germany,"$15,568.72 ",8339,1749,$520.02 ,$845.58 ,$1.87 ,0.03×,$0.10 ,20.97%,0.05,Needs Optimization,NO,NO
+Jungle Jumpers,Amazon,Ghana,"$4,256.17 ",5442,1047,"$2,166.00 ","$2,982.74 ",$0.78 ,0.51×,$0.55 ,19.24%,0.71,Needs Optimization,NO,NO
+Mermaid Melody,Android,Greece,"$17,193.11 ",14124,1764,"$2,752.46 ","$6,120.80 ",$1.22 ,0.16×,$0.43 ,12.49%,0.35,Needs Optimization,NO,NO
+Music Maker Minis,iOS,Grenada,"$25,988.50 ",19364,4882,"$1,150.08 ","$2,534.97 ",$1.34 ,0.04×,$0.13 ,25.21%,0.1,Needs Optimization,NO,NO
+Mermaid Melody,Amazon,Guatemala,"$22,930.44 ",18395,7724,"$15,036.72 ","$24,472.60 ",$1.25 ,0.66×,$1.33 ,41.99%,1.06,Needs Optimization,YES,NO
+Hero Helper HQ,Android,Guinea,"$3,600.63 ",19642,5710,"$12,062.30 ","$16,504.31 ",$0.18 ,3.35×,$0.84 ,29.07%,4.67,Profitable,YES,YES
+ABC Adventure,iOS,Guinea-Bissau,"$27,394.01 ",19895,6480,"$2,659.66 ","$3,890.66 ",$1.38 ,0.10×,$0.20 ,32.57%,0.14,Needs Optimization,NO,NO
+Super Chef Jr,iOS,Guyana,"$3,407.97 ",12922,2984,"$2,616.65 ","$6,163.70 ",$0.26 ,0.77×,$0.48 ,23.09%,1.85,Needs Optimization,YES,NO
+Puzzle Planet,Android,Haiti,"$9,063.60 ",3183,917,$545.04 ,"$1,331.15 ",$2.85 ,0.06×,$0.42 ,28.81%,0.15,Needs Optimization,NO,NO
+Storytime Studio,Amazon,Honduras,"$3,921.31 ",1819,730,$851.40 ,"$1,127.64 ",$2.16 ,0.22×,$0.62 ,40.13%,0.29,Needs Optimization,NO,NO
+Farm Friends,iOS,Hungary,"$5,534.19 ",4248,1383,"$1,233.46 ","$2,738.62 ",$1.30 ,0.22×,$0.64 ,32.56%,0.49,Needs Optimization,NO,NO
+Ocean Odyssey Kids,Amazon,Iceland,"$19,002.93 ",4253,1748,$758.29 ,"$1,512.35 ",$4.47 ,0.04×,$0.36 ,41.10%,0.08,Needs Optimization,NO,NO
+Robot Rhyme Run,Amazon,India,"$20,965.72 ",12798,3310,"$2,087.28 ","$4,443.27 ",$1.64 ,0.10×,$0.35 ,25.86%,0.21,Needs Optimization,NO,NO
+Galaxy Gardeners,iOS,Indonesia,"$4,853.24 ",10382,4569,"$2,930.89 ","$7,270.40 ",$0.47 ,0.60×,$0.70 ,44.01%,1.49,Needs Optimization,YES,NO
+Dino Dash,Android,Iran,"$16,916.87 ",12642,1612,$712.37 ,"$1,285.17 ",$1.34 ,0.04×,$0.10 ,12.75%,0.07,Needs Optimization,NO,NO
+Dragon Dress-Up,iOS,Iraq,"$14,138.66 ",12368,4381,"$10,539.10 ","$19,208.40 ",$1.14 ,0.75×,$1.55 ,35.42%,1.36,Needs Optimization,YES,NO
+Hero Helper HQ,Amazon,Ireland,"$29,033.26 ",9350,3238,"$9,140.63 ","$16,981.91 ",$3.11 ,0.31×,$1.82 ,34.63%,0.59,Needs Optimization,NO,NO
+Hero Helper HQ,Amazon,Israel,"$9,515.08 ",8544,3693,"$2,589.14 ","$4,123.56 ",$1.11 ,0.27×,$0.48 ,43.22%,0.43,Needs Optimization,NO,NO
+Super Chef Jr,Amazon,Italy,"$19,089.29 ",12918,3030,"$2,760.45 ","$5,203.61 ",$1.48 ,0.14×,$0.40 ,23.46%,0.27,Needs Optimization,NO,NO
+Castle Color Camp,Android,Jamaica,"$11,529.49 ",9552,3078,"$2,147.27 ","$3,413.36 ",$1.21 ,0.19×,$0.36 ,32.22%,0.3,Needs Optimization,NO,NO
+Mermaid Melody,Android,Japan,"$17,544.93 ",8374,3150,"$4,678.47 ","$10,533.67 ",$2.10 ,0.27×,$1.26 ,37.62%,0.6,Needs Optimization,NO,NO
+Rainbow Rescue,Android,Jordan,"$8,204.70 ",8472,1884,"$2,508.92 ","$4,860.04 ",$0.97 ,0.31×,$0.57 ,22.24%,0.59,Needs Optimization,NO,NO
+Mermaid Melody,Amazon,Kazakhstan,"$17,410.88 ",12028,4584,"$2,347.71 ","$3,391.94 ",$1.45 ,0.13×,$0.28 ,38.11%,0.19,Needs Optimization,NO,NO
+Jungle Jumpers,iOS,Kenya,"$2,260.83 ",18948,9444,"$2,356.39 ","$3,813.21 ",$0.12 ,1.04×,$0.20 ,49.84%,1.67,Profitable,YES,YES
+Magic Math Quest,Android,Kiribati,"$5,347.53 ",18059,8674,"$7,629.26 ","$16,680.05 ",$0.30 ,1.43×,$0.92 ,48.03%,3.07,Profitable,YES,YES
+Castle Color Camp,iOS,Kuwait,"$10,463.49 ",18002,2711,$360.15 ,$594.45 ,$0.58 ,0.03×,$0.03 ,15.06%,0.05,Needs Optimization,NO,NO
+Farm Friends,Amazon,Kyrgyzstan,"$26,316.91 ",16585,2339,$498.56 ,$934.53 ,$1.59 ,0.02×,$0.06 ,14.10%,0.04,Needs Optimization,NO,NO
+Jungle Jumpers,iOS,Laos,"$29,033.93 ",8773,4179,"$7,293.70 ","$12,988.98 ",$3.31 ,0.25×,$1.48 ,47.63%,0.45,Needs Optimization,NO,NO
+Rainbow Rescue,Amazon,Latvia,"$19,624.48 ",2256,362,"$1,076.92 ","$1,510.08 ",$8.70 ,0.05×,$0.67 ,16.05%,0.08,Needs Optimization,NO,NO
+Storytime Studio,iOS,Lebanon,"$17,626.04 ",14137,4842,"$5,191.22 ","$10,003.93 ",$1.25 ,0.29×,$0.71 ,34.25%,0.57,Needs Optimization,NO,NO
+Super Chef Jr,Android,Lesotho,"$10,325.89 ",19784,9813,"$9,969.32 ","$20,253.24 ",$0.52 ,0.97×,$1.02 ,49.60%,1.96,Breakeven,YES,NO
+Hero Helper HQ,iOS,Liberia,"$28,532.53 ",7308,2559,$792.99 ,"$1,259.14 ",$3.90 ,0.03×,$0.17 ,35.02%,0.04,Needs Optimization,NO,NO
+ABC Adventure,iOS,Libya,"$6,382.91 ",13886,3890,"$3,824.02 ","$6,033.43 ",$0.46 ,0.60×,$0.43 ,28.01%,0.93,Needs Optimization,NO,NO
+Music Maker Minis,Android,Liechtenstein,"$21,683.65 ",15377,1975,$946.01 ,"$2,128.05 ",$1.41 ,0.04×,$0.14 ,12.84%,0.1,Needs Optimization,NO,NO
+Safari Snap,Amazon,Lithuania,"$24,509.36 ",6982,1885,"$3,009.66 ","$7,193.37 ",$3.51 ,0.12×,$1.03 ,27.00%,0.29,Needs Optimization,NO,NO
+Ninja Numbers,Amazon,Luxembourg,"$6,327.49 ",8257,3681,"$11,354.15 ","$26,769.67 ",$0.77 ,1.79×,$3.24 ,44.58%,4.21,Profitable,YES,YES
+Super Chef Jr,Amazon,Madagascar,"$10,514.55 ",13689,6530,"$7,975.18 ","$11,137.58 ",$0.77 ,0.76×,$0.81 ,47.70%,1.05,Needs Optimization,YES,NO
+Dino Dash,Android,Malawi,"$22,566.95 ",8704,960,$853.53 ,"$1,990.96 ",$2.59 ,0.04×,$0.23 ,11.03%,0.09,Needs Optimization,NO,NO
+Safari Snap,iOS,Malaysia,"$29,988.03 ",9331,3083,"$2,818.19 ","$5,418.69 ",$3.21 ,0.09×,$0.58 ,33.04%,0.18,Needs Optimization,NO,NO
+Ninja Numbers,iOS,Maldives,"$2,215.24 ",10376,4961,"$11,908.14 ","$19,616.71 ",$0.21 ,5.38×,$1.89 ,47.81%,9,Profitable,YES,YES
+Mermaid Melody,Android,Mali,"$10,989.63 ",3927,1740,"$2,023.82 ","$3,330.93 ",$2.80 ,0.18×,$0.85 ,44.31%,0.3,Needs Optimization,NO,NO
+Astronaut Academy,Amazon,Malta,"$3,027.52 ",3385,764,"$1,145.57 ","$2,044.85 ",$0.89 ,0.38×,$0.60 ,22.57%,0.67,Needs Optimization,NO,NO
+Tiny Town Builders,iOS,Marshall Islands,"$20,414.49 ",18279,5205,"$2,084.21 ","$4,266.71 ",$1.12 ,0.10×,$0.23 ,28.48%,0.21,Needs Optimization,NO,NO
+Dragon Dress-Up,Amazon,Mauritania,"$14,377.15 ",2191,397,$845.32 ,"$1,543.33 ",$6.56 ,0.06×,$0.70 ,18.12%,0.11,Needs Optimization,NO,NO
+Music Maker Minis,Android,Mauritius,"$5,399.93 ",8341,3202,$827.42 ,"$1,480.74 ",$0.65 ,0.15×,$0.18 ,38.39%,0.28,Needs Optimization,NO,NO
+Storytime Studio,iOS,Mexico,"$14,920.54 ",4349,1561,"$1,462.31 ","$2,413.15 ",$3.43 ,0.10×,$0.55 ,35.89%,0.16,Needs Optimization,NO,NO
+Music Maker Minis,Android,Micronesia,"$13,633.73 ",16310,8026,"$6,448.70 ","$11,351.67 ",$0.84 ,0.47×,$0.70 ,49.21%,0.83,Needs Optimization,NO,NO
+Ninja Numbers,Amazon,Moldova,"$22,896.19 ",4973,2216,"$2,532.59 ","$4,553.42 ",$4.60 ,0.11×,$0.92 ,44.56%,0.2,Needs Optimization,NO,NO
+Tiny Town Builders,Android,Monaco,"$24,975.39 ",9768,3813,"$7,943.59 ","$16,617.43 ",$2.56 ,0.32×,$1.70 ,39.04%,0.66,Needs Optimization,NO,NO
+Farm Friends,Android,Mongolia,"$17,080.26 ",11809,2751,"$3,898.30 ","$9,431.64 ",$1.45 ,0.23×,$0.80 ,23.30%,0.55,Needs Optimization,NO,NO
+Magic Math Quest,Amazon,Montenegro,"$8,686.56 ",13049,2524,"$1,494.64 ","$3,278.71 ",$0.67 ,0.17×,$0.25 ,19.34%,0.37,Needs Optimization,NO,NO
+Music Maker Minis,Android,Morocco,"$12,810.21 ",5484,1634,$581.92 ,"$1,168.62 ",$2.34 ,0.05×,$0.21 ,29.80%,0.09,Needs Optimization,NO,NO
+Space Sprouts,Android,Mozambique,"$4,791.93 ",15472,1642,"$1,404.24 ","$3,459.97 ",$0.31 ,0.29×,$0.22 ,10.61%,0.71,Needs Optimization,NO,NO
+Rainbow Rescue,Android,Myanmar,"$23,882.71 ",9184,2162,"$4,182.24 ","$9,711.66 ",$2.60 ,0.18×,$1.06 ,23.54%,0.41,Needs Optimization,NO,NO
+Fairy Pet Care,Amazon,Namibia,"$12,640.26 ",10876,3814,"$7,351.40 ","$14,329.49 ",$1.16 ,0.58×,$1.32 ,35.07%,1.14,Needs Optimization,YES,NO
+Ninja Numbers,iOS,Nauru,"$8,573.57 ",9916,4947,"$7,592.66 ","$10,767.39 ",$0.86 ,0.89×,$1.09 ,49.89%,1.27,Breakeven,YES,NO
+Galaxy Gardeners,Amazon,Nepal,"$26,432.22 ",15038,2504,$677.36 ,"$1,144.23 ",$1.76 ,0.03×,$0.08 ,16.65%,0.05,Needs Optimization,NO,NO
+Dino Dash,Android,Netherlands,"$12,036.97 ",14612,2312,"$3,256.32 ","$7,330.05 ",$0.82 ,0.27×,$0.50 ,15.82%,0.61,Needs Optimization,NO,NO
+Ocean Odyssey Kids,iOS,New Zealand,"$4,211.11 ",13035,4534,"$5,375.30 ","$7,911.05 ",$0.32 ,1.28×,$0.61 ,34.78%,1.91,Profitable,YES,YES
+Super Chef Jr,Amazon,Nicaragua,"$9,111.37 ",8866,3251,"$6,114.02 ","$10,058.53 ",$1.03 ,0.67×,$1.13 ,36.67%,1.1,Needs Optimization,YES,NO
+Puzzle Planet,Amazon,Niger,"$18,508.43 ",17691,5992,"$18,971.43 ","$31,407.12 ",$1.05 ,1.03×,$1.78 ,33.87%,1.7,Profitable,YES,YES
+Super Chef Jr,Android,Nigeria,"$7,578.08 ",13105,5783,"$2,341.69 ","$4,052.88 ",$0.58 ,0.31×,$0.31 ,44.13%,0.53,Needs Optimization,NO,NO
+Robot Rhyme Run,Amazon,North Korea,"$10,266.46 ",13469,2825,"$4,858.07 ","$10,656.68 ",$0.76 ,0.47×,$0.79 ,20.97%,1.04,Needs Optimization,YES,NO
+Dino Dash,Amazon,North Macedonia,"$22,864.82 ",9878,4052,"$4,209.80 ","$6,579.10 ",$2.31 ,0.18×,$0.67 ,41.02%,0.29,Needs Optimization,NO,NO
+Magic Math Quest,Amazon,Norway,"$9,017.55 ",4981,1749,"$4,217.56 ","$7,046.36 ",$1.81 ,0.47×,$1.41 ,35.11%,0.78,Needs Optimization,NO,NO
+Super Chef Jr,iOS,Oman,"$18,228.07 ",4806,653,$748.49 ,"$1,130.79 ",$3.79 ,0.04×,$0.24 ,13.59%,0.06,Needs Optimization,NO,NO
+Farm Friends,Amazon,Pakistan,"$26,540.90 ",12488,3900,"$11,599.00 ","$18,655.42 ",$2.13 ,0.44×,$1.49 ,31.23%,0.7,Needs Optimization,NO,NO
+Dragon Dress-Up,Android,Palau,"$22,903.66 ",11599,4891,"$2,204.61 ","$4,861.12 ",$1.97 ,0.10×,$0.42 ,42.17%,0.21,Needs Optimization,NO,NO
+Storytime Studio,Amazon,Panama,"$22,278.07 ",13522,6583,"$9,578.65 ","$21,540.64 ",$1.65 ,0.43×,$1.59 ,48.68%,0.96,Needs Optimization,NO,NO
+Panda Playhouse,Android,Papua New Guinea,"$17,024.02 ",15402,3810,"$4,248.91 ","$7,466.31 ",$1.11 ,0.25×,$0.48 ,24.74%,0.43,Needs Optimization,NO,NO
+Puzzle Planet,Amazon,Paraguay,"$8,332.45 ",14561,6378,"$19,809.81 ","$40,338.48 ",$0.57 ,2.38×,$2.77 ,43.80%,4.86,Profitable,YES,YES
+Ninja Numbers,iOS,Peru,"$20,134.27 ",15713,7286,"$5,419.49 ","$7,954.36 ",$1.28 ,0.27×,$0.51 ,46.37%,0.4,Needs Optimization,NO,NO
+Dino Dash,Android,Philippines,"$29,885.97 ",4305,597,$547.92 ,"$1,010.57 ",$6.94 ,0.02×,$0.23 ,13.87%,0.03,Needs Optimization,NO,NO
+Fairy Pet Care,Amazon,Poland,"$21,501.55 ",18201,4871,"$4,107.90 ","$7,385.43 ",$1.18 ,0.19×,$0.41 ,26.76%,0.35,Needs Optimization,NO,NO
+Space Sprouts,Android,Portugal,"$19,238.26 ",9666,1093,$985.02 ,"$2,404.11 ",$1.99 ,0.05×,$0.25 ,11.31%,0.13,Needs Optimization,NO,NO
+Castle Color Camp,iOS,Qatar,"$29,465.98 ",12536,3983,"$6,746.31 ","$11,993.37 ",$2.35 ,0.23×,$0.96 ,31.77%,0.41,Needs Optimization,NO,NO
+Magic Math Quest,iOS,Romania,"$28,572.30 ",15400,2104,"$1,742.94 ","$4,296.89 ",$1.86 ,0.06×,$0.28 ,13.66%,0.15,Needs Optimization,NO,NO
+Dino Dash,Android,Russia,"$8,819.93 ",4626,1918,"$1,906.93 ","$3,747.21 ",$1.91 ,0.22×,$0.81 ,41.46%,0.42,Needs Optimization,NO,NO
+Safari Snap,iOS,Rwanda,"$24,765.48 ",8134,1882,"$1,672.51 ","$2,179.95 ",$3.04 ,0.07×,$0.27 ,23.14%,0.09,Needs Optimization,NO,NO
+Farm Friends,iOS,Saint Kitts and Nevis,"$17,126.03 ",6217,895,$798.61 ,"$1,381.51 ",$2.75 ,0.05×,$0.22 ,14.40%,0.08,Needs Optimization,NO,NO
+Storytime Studio,Amazon,Saint Lucia,"$11,065.60 ",6209,1279,$590.65 ,$848.40 ,$1.78 ,0.05×,$0.14 ,20.60%,0.08,Needs Optimization,NO,NO
+Rainbow Rescue,Android,Saint Vincent and the Grenadines,"$14,551.71 ",12363,3774,"$1,866.32 ","$4,543.55 ",$1.18 ,0.13×,$0.37 ,30.53%,0.31,Needs Optimization,NO,NO
+Dino Dash,Amazon,Samoa,"$23,930.36 ",17586,3880,"$1,870.97 ","$4,674.25 ",$1.36 ,0.08×,$0.27 ,22.06%,0.2,Needs Optimization,NO,NO
+Astronaut Academy,Android,San Marino,"$21,210.73 ",16565,6376,"$11,327.88 ","$19,104.86 ",$1.28 ,0.53×,$1.15 ,38.49%,0.9,Needs Optimization,NO,NO
+Rainbow Rescue,iOS,Sao Tome and Principe,"$6,656.71 ",16413,4801,"$14,574.08 ","$21,825.63 ",$0.41 ,2.19×,$1.33 ,29.25%,3.24,Profitable,YES,YES
+Super Chef Jr,Amazon,Saudi Arabia,"$18,951.95 ",3749,1564,$958.44 ,"$2,255.45 ",$5.06 ,0.05×,$0.60 ,41.72%,0.12,Needs Optimization,NO,NO
+ABC Adventure,Amazon,Senegal,"$26,233.78 ",14592,4094,"$2,256.87 ","$4,162.12 ",$1.80 ,0.09×,$0.29 ,28.06%,0.16,Needs Optimization,NO,NO
+Mermaid Melody,Amazon,Serbia,"$4,662.40 ",14484,3259,"$4,156.40 ","$8,828.96 ",$0.32 ,0.89×,$0.61 ,22.50%,1.91,Breakeven,YES,NO
+Dragon Dress-Up,iOS,Seychelles,"$4,554.29 ",3297,452,$273.21 ,$621.31 ,$1.38 ,0.06×,$0.19 ,13.71%,0.14,Needs Optimization,NO,NO
+ABC Adventure,iOS,Sierra Leone,"$18,421.02 ",18902,6136,"$8,295.93 ","$19,481.57 ",$0.97 ,0.45×,$1.03 ,32.46%,1.06,Needs Optimization,YES,NO
+Pirate Paint Party,Android,Singapore,"$26,306.58 ",2185,1064,"$1,184.00 ","$2,360.31 ",$12.04 ,0.05×,$1.08 ,48.70%,0.09,Needs Optimization,NO,NO
+Magic Math Quest,iOS,Slovakia,"$20,388.62 ",7848,3444,"$3,528.35 ","$5,073.28 ",$2.60 ,0.17×,$0.65 ,43.88%,0.25,Needs Optimization,NO,NO
+Robot Rhyme Run,iOS,Slovenia,"$3,621.90 ",19091,9140,"$4,034.45 ","$5,579.87 ",$0.19 ,1.11×,$0.29 ,47.88%,1.53,Profitable,YES,YES
+Galaxy Gardeners,Amazon,Solomon Islands,"$2,735.11 ",9263,1033,"$1,140.60 ","$2,744.11 ",$0.30 ,0.42×,$0.30 ,11.15%,1,Needs Optimization,YES,NO
+Castle Color Camp,iOS,Somalia,"$7,079.36 ",5194,1695,$851.48 ,"$1,753.88 ",$1.36 ,0.12×,$0.34 ,32.63%,0.25,Needs Optimization,NO,NO
+Panda Playhouse,iOS,South Africa,"$22,891.13 ",7549,1890,"$1,088.53 ","$1,822.16 ",$3.03 ,0.05×,$0.24 ,25.04%,0.08,Needs Optimization,NO,NO
+Jungle Jumpers,Amazon,South Korea,"$18,694.27 ",2223,360,$211.89 ,$296.20 ,$8.41 ,0.01×,$0.13 ,16.19%,0.02,Needs Optimization,NO,NO
+Super Chef Jr,Amazon,South Sudan,"$13,872.41 ",14984,3980,"$2,819.02 ","$4,832.39 ",$0.93 ,0.20×,$0.32 ,26.56%,0.34,Needs Optimization,NO,NO
+Space Sprouts,Android,Spain,"$20,990.10 ",19935,5873,"$3,101.06 ","$5,502.26 ",$1.05 ,0.15×,$0.28 ,29.46%,0.27,Needs Optimization,NO,NO
+Super Chef Jr,Android,Sri Lanka,"$7,081.70 ",19680,5399,"$16,533.76 ","$30,819.13 ",$0.36 ,2.33×,$1.57 ,27.43%,4.36,Profitable,YES,YES
+Space Sprouts,iOS,Sudan,"$15,926.79 ",14611,2487,"$3,229.66 ","$6,137.37 ",$1.09 ,0.20×,$0.42 ,17.02%,0.39,Needs Optimization,NO,NO
+Fairy Pet Care,Android,Suriname,"$4,018.11 ",1886,517,$231.04 ,$387.15 ,$2.13 ,0.06×,$0.21 ,27.41%,0.1,Needs Optimization,NO,NO
+Mermaid Melody,Amazon,Sweden,"$13,323.84 ",14186,3061,"$5,392.42 ","$8,122.32 ",$0.94 ,0.40×,$0.57 ,21.58%,0.61,Needs Optimization,NO,NO
+Ninja Numbers,Android,Switzerland,"$25,296.73 ",12357,1671,"$1,967.68 ","$3,948.44 ",$2.05 ,0.08×,$0.32 ,13.52%,0.16,Needs Optimization,NO,NO
+Tiny Town Builders,iOS,Syria,"$13,081.47 ",10667,4248,"$4,214.83 ","$5,865.59 ",$1.23 ,0.32×,$0.55 ,39.82%,0.45,Needs Optimization,NO,NO
+Galaxy Gardeners,iOS,Taiwan,"$16,856.93 ",6853,3168,"$3,989.92 ","$9,107.94 ",$2.46 ,0.24×,$1.33 ,46.23%,0.54,Needs Optimization,NO,NO
+Farm Friends,iOS,Tajikistan,"$4,878.53 ",8887,1589,"$3,114.47 ","$6,498.69 ",$0.55 ,0.64×,$0.73 ,17.88%,1.33,Needs Optimization,YES,NO
+Ocean Odyssey Kids,Amazon,Tanzania,"$15,835.28 ",18972,7663,"$14,044.34 ","$27,771.14 ",$0.83 ,0.89×,$1.46 ,40.39%,1.76,Breakeven,YES,NO
+Galaxy Gardeners,Amazon,Thailand,"$11,049.83 ",10859,1741,$664.32 ,"$1,105.02 ",$1.02 ,0.06×,$0.10 ,16.03%,0.1,Needs Optimization,NO,NO
+Puzzle Planet,Amazon,Timor-Leste,"$3,572.82 ",17124,2220,$847.79 ,"$1,477.26 ",$0.21 ,0.24×,$0.09 ,12.96%,0.43,Needs Optimization,NO,NO
+Robot Rhyme Run,iOS,Togo,"$20,050.66 ",3458,1196,"$1,399.13 ","$2,749.54 ",$5.80 ,0.07×,$0.80 ,34.59%,0.14,Needs Optimization,NO,NO
+Hero Helper HQ,iOS,Tonga,"$14,592.54 ",19232,6937,"$5,986.95 ","$8,866.87 ",$0.76 ,0.41×,$0.46 ,36.07%,0.61,Needs Optimization,NO,NO
+Dino Dash,Android,Trinidad and Tobago,"$4,898.05 ",11753,5793,"$3,144.79 ","$4,235.94 ",$0.42 ,0.64×,$0.36 ,49.29%,0.86,Needs Optimization,NO,NO
+Music Maker Minis,Android,Tunisia,"$29,747.61 ",17672,5462,"$2,614.41 ","$4,286.25 ",$1.68 ,0.09×,$0.24 ,30.91%,0.14,Needs Optimization,NO,NO
+Mermaid Melody,Android,Turkey,"$21,009.14 ",2215,920,$511.49 ,$722.94 ,$9.48 ,0.02×,$0.33 ,41.53%,0.03,Needs Optimization,NO,NO
+Fairy Pet Care,Android,Turkmenistan,"$9,956.12 ",5427,1266,$843.37 ,"$1,450.42 ",$1.83 ,0.08×,$0.27 ,23.33%,0.15,Needs Optimization,NO,NO
+Galaxy Gardeners,Amazon,Tuvalu,"$20,539.78 ",4725,1597,"$2,373.28 ","$4,158.02 ",$4.35 ,0.12×,$0.88 ,33.80%,0.2,Needs Optimization,NO,NO
+Jungle Jumpers,iOS,Uganda,"$20,763.26 ",17748,2438,"$3,831.03 ","$5,064.15 ",$1.17 ,0.18×,$0.29 ,13.74%,0.25,Needs Optimization,NO,NO
+Robot Rhyme Run,iOS,Ukraine,"$28,632.74 ",11697,5603,"$4,080.95 ","$5,978.91 ",$2.45 ,0.14×,$0.51 ,47.90%,0.21,Needs Optimization,NO,NO
+Rainbow Rescue,Android,United Arab Emirates,"$25,643.99 ",3814,1155,"$2,029.20 ","$3,920.09 ",$6.72 ,0.08×,$1.03 ,30.28%,0.15,Needs Optimization,NO,NO
+Fairy Pet Care,Android,United Kingdom,"$26,539.00 ",4794,1624,$506.85 ,"$1,080.31 ",$5.54 ,0.02×,$0.23 ,33.88%,0.04,Needs Optimization,NO,NO
+Ninja Numbers,iOS,United States,"$22,193.12 ",1931,510,$494.35 ,$906.16 ,$11.49 ,0.02×,$0.47 ,26.41%,0.04,Needs Optimization,NO,NO
+Robot Rhyme Run,Amazon,Uruguay,"$23,946.41 ",8167,2561,"$3,231.09 ","$6,018.93 ",$2.93 ,0.13×,$0.74 ,31.36%,0.25,Needs Optimization,NO,NO
+Magic Math Quest,Android,Uzbekistan,"$20,992.59 ",19191,9476,"$7,517.24 ","$13,217.16 ",$1.09 ,0.36×,$0.69 ,49.38%,0.63,Needs Optimization,NO,NO
+Tiny Town Builders,Android,Vanuatu,"$29,055.51 ",7043,2961,"$1,036.01 ","$2,143.93 ",$4.13 ,0.04×,$0.30 ,42.04%,0.07,Needs Optimization,NO,NO
+Castle Color Camp,Amazon,Vatican City,"$28,160.22 ",17405,7666,"$8,751.12 ","$14,241.13 ",$1.62 ,0.31×,$0.82 ,44.04%,0.51,Needs Optimization,NO,NO
+Tiny Town Builders,iOS,Venezuela,"$25,269.31 ",3505,1677,"$1,091.37 ","$1,876.61 ",$7.21 ,0.04×,$0.54 ,47.85%,0.07,Needs Optimization,NO,NO
+Panda Playhouse,Android,Vietnam,"$3,491.19 ",16949,4230,"$1,691.26 ","$2,654.34 ",$0.21 ,0.48×,$0.16 ,24.96%,0.76,Needs Optimization,NO,NO
+Jungle Jumpers,iOS,Yemen,"$25,496.94 ",11486,4784,"$1,814.43 ","$4,165.41 ",$2.22 ,0.07×,$0.36 ,41.65%,0.16,Needs Optimization,NO,NO
+Music Maker Minis,iOS,Zambia,"$23,247.55 ",15871,4435,$515.40 ,$828.30 ,$1.46 ,0.02×,$0.05 ,27.94%,0.03,Needs Optimization,NO,NO
+Farm Friends,Amazon,Zimbabwe,"$28,326.33 ",17794,4791,"$5,205.47 ","$7,528.24 ",$1.59 ,0.18×,$0.42 ,26.92%,0.26,Needs Optimization,NO,NO
+Storytime Studio,Android,Hong Kong,"$19,890.65 ",15478,1936,"$3,609.61 ","$7,014.43 ",$1.29 ,0.18×,$0.45 ,12.51%,0.35,Needs Optimization,NO,NO
+Galaxy Gardeners,Amazon,Macau,"$18,101.33 ",5204,1126,$251.00 ,$498.18 ,$3.48 ,0.01×,$0.10 ,21.64%,0.03,Needs Optimization,NO,NO
+Ocean Odyssey Kids,Amazon,Puerto Rico,"$20,710.02 ",17653,8647,"$3,746.76 ","$7,151.79 ",$1.17 ,0.18×,$0.41 ,48.98%,0.35,Needs Optimization,NO,NO
+Tiny Town Builders,Amazon,Guam,"$2,569.36 ",15905,1867,"$1,550.95 ","$3,407.10 ",$0.16 ,0.60×,$0.21 ,11.74%,1.31,Needs Optimization,YES,NO
+Castle Color Camp,iOS,Greenland,"$11,654.47 ",3896,1591,"$2,009.87 ","$2,719.76 ",$2.99 ,0.17×,$0.70 ,40.84%,0.23,Needs Optimization,NO,NO
+ABC Adventure,Android,Bermuda,"$24,778.25 ",6237,2695,"$7,206.98 ","$13,507.59 ",$3.97 ,0.29×,$2.17 ,43.21%,0.55,Needs Optimization,NO,NO
