@@ -1,7 +1,7 @@
 # product-data-analyst-excel-powerbi
-Mobile App UA Investment Analysis
+#Mobile App UA Investment Analysis
 
-Project Overview:
+#Project Overview:
 This project analyzes mobile app marketing performance to determine which apps deserve additional user acquisition (UA) investment.
 The analysis evaluates acquisition efficiency, short-term revenue recovery, long-term user value, and user retention using key marketing metrics.
 The goal is to simulate a real-world product analytics workflow and demonstrate how data analysts support marketing investment decisions.
