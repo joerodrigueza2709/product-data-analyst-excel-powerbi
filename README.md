@@ -1,4 +1,3 @@
-# product-data-analyst-excel-powerbi
 # Mobile App UA Investment Analysis
 
 ## Project Overview:
@@ -35,12 +34,18 @@ Investing in the wrong campaigns can significantly reduce marketing efficiency a
 
 App × Platform × Country
 
+
+
 **Two datasets are included:**
 
+
 **Raw Dataset:**
-Located in: data/raw/raw_app_performance_data.csv
+
+📥 **Download the Raw Dataset:**  
+[raw_app_performance_data.csv](data/raw/raw_app_performance_data.csv)
 
 **This dataset intentionally contains inconsistencies such as:**
+
 inconsistent column names
 
 mixed currency formatting
@@ -49,8 +54,11 @@ spacing and labeling issues
 
 These simulate common real-world marketing export data.
 
+
 **Cleaned Dataset:**
-Located in:data/cleaned/cleaned_app_performance_data.csv
+
+📥 **Download the Cleaned Dataset:**  
+[cleaned_app_performance_data.csv](data/processed/cleaned_app_performance_data.csv)
 
 The cleaned dataset contains standardized fields and engineered metrics ready for analysis.
 
@@ -58,6 +66,7 @@ The cleaned dataset contains standardized fields and engineered metrics ready fo
 The raw dataset required preparation before analysis.
 
 **The following steps were performed in Excel:**
+
 Removed duplicate records
 
 Standardized country naming conventions
@@ -100,7 +109,6 @@ Retention 30d → 20%
 This framework simulates how marketing teams evaluate campaign efficiency and prioritize investment opportunities.
 
 <img width="2629" height="390" alt="Eligible_for_UA_Campaign" src="https://github.com/user-attachments/assets/19b039fc-2178-4853-bd09-a6e5696572c4" />
-
 
 ## Excel Analysis:
 
