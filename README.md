@@ -90,6 +90,7 @@ AND
 LTV > CAC
 
 **Eligible apps were then ranked using a weighted Investment Score:**
+
 ROAS 30d → 50%
 
 LTV 90d → 30%
@@ -99,7 +100,9 @@ Retention 30d → 20%
 This framework simulates how marketing teams evaluate campaign efficiency and prioritize investment opportunities.
 
 ## Excel Analysis:
-The Excel workbook is located in: excel_analysis/mobile_app_ua_investment_analysis.xlsx
+
+📥 **Download the Excel Analysis Workbook:**  
+[mobile_app_ua_investment_analysis.xlsx](excel_analysis/mobile_app_ua_investment_analysis.xlsx)
 
 Excel was used to:
 Clean and validate the dataset
@@ -115,8 +118,8 @@ Identify the top apps for UA investment
 
 ## Power BI Dashboard:
 
-Dashboard file:  
-[Download the Power BI Dashboard](powerbi_dashboard/mobile_app_ua_investment_dashboards.pbix)
+📥 **Download the Power BI Dashboard:**  
+[mobile_app_ua_investment_dashboard.pbix](powerbi_dashboard/mobile_app_ua_investment_dashboards.pbix)
 
 Can be found: Powerbi_dashboard/mobile_app_ua_investment_dashboards.pbix
 
