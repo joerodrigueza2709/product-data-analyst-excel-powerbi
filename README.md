@@ -99,6 +99,9 @@ Retention 30d → 20%
 
 This framework simulates how marketing teams evaluate campaign efficiency and prioritize investment opportunities.
 
+<img width="2629" height="390" alt="Eligible_for_UA_Campaign" src="https://github.com/user-attachments/assets/19b039fc-2178-4853-bd09-a6e5696572c4" />
+
+
 ## Excel Analysis:
 
 📥 **Download the Excel Analysis Workbook:**  
@@ -143,13 +146,13 @@ LTV vs CAC profitability visualization
 ## Key Insights:
 **The analysis identified several apps that demonstrate strong marketing efficiency based on:**
 
-high ROAS
+High ROAS
 
-strong long-term LTV
+Strong long-term LTV
 
-healthy retention
+Healthy retention
 
-favorable LTV:CAC ratios
+Favorable LTV:CAC ratios
 
 These apps represent the best candidates for additional user acquisition investment.
 
