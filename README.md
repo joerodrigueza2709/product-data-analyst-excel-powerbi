@@ -38,7 +38,7 @@ Cleaned Dataset:
 Located in:data/cleaned/cleaned_app_performance_data.csv
 The cleaned dataset contains standardized fields and engineered metrics ready for analysis.
 
-Data PreparationL
+Data Preparation
 The raw dataset required preparation before analysis.
 The following steps were performed in Excel:
 Removed duplicate records
@@ -88,6 +88,8 @@ LTV:CAC analysis
 ROAS vs CAC scatter analysis
 LTV vs CAC profitability visualization
 Dashboard file: powerbi_dashboard/mobile_app_ua_investment_dashboards.pbix
+
+<img width="3436" height="1398" alt="Final Screen" src="https://github.com/user-attachments/assets/aeadf531-699e-4e96-ab22-7e44c0c6933e" />
 
 Key Insights:
 The analysis identified several apps that demonstrate strong marketing efficiency based on:
