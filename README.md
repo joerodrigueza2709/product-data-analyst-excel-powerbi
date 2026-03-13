@@ -154,13 +154,13 @@ LTV vs CAC profitability visualization
 ## Key Insights:
 **The analysis identified several apps that demonstrate strong marketing efficiency based on:**
 
-High ROAS
+• High ROAS indicating strong short-term revenue recovery
 
-Strong long-term LTV
+• Strong long-term LTV suggesting sustainable user value
 
-Healthy retention
+• Healthy retention levels reflecting strong user engagement
 
-Favorable LTV:CAC ratios
+• Favorable LTV:CAC ratios demonstrating profitable acquisition
 
-These apps represent the best candidates for additional user acquisition investment.
+**Apps such as Ninja Numbers and Hero Helper HQ showed particularly strong unit economics and represent the best candidates for additional UA investment.**
 
